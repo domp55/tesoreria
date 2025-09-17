@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import axios from 'axios';
 import { 
   DollarSign, TrendingUp, TrendingDown, Users, 
-  AlertCircle, Eye, Share2, Copy 
+  AlertCircle, Eye, Share2, Copy, Settings 
 } from 'lucide-react';
 import { toast } from 'sonner';
 
